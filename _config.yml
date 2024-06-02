@@ -1,4 +1,4 @@
-theme: jekyll-theme-minimal
+#theme: jekyll-theme-minimal
+theme: jekyll-theme-slate
 title: Roy-lab tools
 description: Software and pipelines from Roy-lab
-show_downloads: true
