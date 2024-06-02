@@ -1,5 +1,5 @@
 #theme: jekyll-theme-minimal
 #theme: jekyll-theme-slate
-theme: jekyll-theme-minima
+remote-theme: jekyll-theme-minima
 title: Roy-lab tools
 description: Software and pipelines from Roy-lab
